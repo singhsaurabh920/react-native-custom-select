@@ -42,7 +42,6 @@
     "typescript": "^4.8.4"
   },
   "author": "Saurabh Singh",
-  "license": "MIT",
   "bugs": {
     "url": "git@github.com:singhsaurabh920/react-native-custom-select.git/issues"
   },
